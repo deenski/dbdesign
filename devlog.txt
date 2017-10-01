@@ -1,0 +1,24 @@
+devlog
+
+10/1/17
+
+attempting to layout the ERD.
+
+Business Rules:
+Each Corporate account can have many passengers
+A passenger can be a member of only one corporate account
+
+Each passenger may be associated with several addresses
+Several addresses may be associated with each passenger
+
+Each ride request is generated from an address
+Each address may generate a ride request
+
+Each ride request initiates a trip
+Each trip is initiated by a ride request.
+
+Each trip requires only one vehicle.
+One vehicle is required per trip.
+
+Each trip generates an invoice.
+An invoice is generated per trip.

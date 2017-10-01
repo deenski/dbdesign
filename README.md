@@ -5,12 +5,6 @@ Self Driving Car Fleet as a Service
 
 The business owns many cars
 
-
-Passenger cars can hold between 1-4 passengers
-Passenger vans can hold between 4-10 passengers
-Pickup Trucks can hold up to three passengers and haul up to 1000 lbs
-Cargo vans can hold up to two passengers and haul up to 1000 lbs
-
 Types of cars:
 Passenger car
 Passenger van
