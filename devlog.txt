@@ -22,3 +22,15 @@ One vehicle is required per trip.
 
 Each trip generates an invoice.
 An invoice is generated per trip.
+
+10/17/2017:
+
+made some changes to the database model concerning auto-incrementation of primary key values.
+Deleted duplicate date and time stamps related to rides given.
+Generated the code to create the database and tables.
+generated an insert script that will insert data into the database.
+
+Tasks:
+Create a report or something that will generate an invoice with all of the info.
+Company/Rider info, ride info - date, time, car taken, mileage, rate... Then generate a total amount due for 
+the invoice. If time permits, figure out how to do monthly billing...
