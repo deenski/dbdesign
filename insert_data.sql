@@ -1,7 +1,7 @@
-INSERT INTO commercial_accounts (business_id, name, phone, billing_email, contact_name)
-VALUES (1999, "Individual Account","see passenger phone", "See passenger email", "See passenger name"),
-(default, "Twenty Mile Security", "303-505-5603", "jake@twentymilesecurity.com", "Jakob Vendegna"),
-(default, "Nielsen Contracting", "970-333-1653", "mahilio.11@gmail.com", "Maili Nielsen");
+INSERT INTO commercial_accounts (business_id, name, phone, billing_email, contact_name, rate)
+VALUES (1999, "Individual Account","see passenger phone", "See passenger email", "See passenger name", default),
+(default, "Twenty Mile Security", "303-505-5603", "jake@twentymilesecurity.com", "Jakob Vendegna", default),
+(default, "Nielsen Contracting", "970-333-1653", "mahilio.11@gmail.com", "Maili Nielsen", 0.95);
 
 select * from commercial_accounts;
 
