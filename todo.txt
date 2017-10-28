@@ -1,0 +1,5 @@
+todo.txt
+
+enable loggging to file
+query some tables
+povide the log
