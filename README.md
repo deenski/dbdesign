@@ -1,6 +1,9 @@
 # dbdesign
 
 ## Business DB
+#### A halfassed attempt at an extra credit project in a database design class
+
+
 ### Self Driving Car Fleet as a Service
 
 The business owns many cars
